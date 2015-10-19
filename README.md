@@ -1,6 +1,7 @@
 # HazmatNetworkData
 
-http://hazmat.chkwon.net/resources/
+* Original Source: http://hazmat.chkwon.net/resources/
+* Prepared by [Changhyun Kwon](http://www.chkwon.net) and his students.
 
 This repository contains two road network data, which may be useful for research in hazardous materials transportation. The listed research articles used the data.
 
