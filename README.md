@@ -3,7 +3,7 @@
 * Original Source: http://hazmat.chkwon.net/resources/
 * Prepared by [Changhyun Kwon](http://www.chkwon.net) and his students.
 
-This repository contains two road network data, which may be useful for research in hazardous materials transportation. The listed research articles used the data.
+This repository contains two road network data, which may be useful for research in hazardous materials transportation. See the `data` directory of this repository for data. The listed research articles used the data. 
 
 
 ![Albany Network](Albany-Network-Map-150x150.png)
