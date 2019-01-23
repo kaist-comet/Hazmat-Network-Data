@@ -19,6 +19,8 @@ This repository contains two road network data, which may be useful for research
 * Buffalo Network
   - [Toumazis, I. and C. Kwon (2016), “Worst-case Conditional Value-at-Risk Minimization for Hazardous Materials Transportation”, Transportation Science, 50(4), 1174–1187](http://dx.doi.org/10.1287/trsc.2015.0639)
   - [Toumazis, I. and C. Kwon (2013), “Routing Hazardous Materials on Time-Dependent Networks using Conditional Value-at-Risk”, Transportation Research Part C: Emerging Technologies, 37, 73–92.](http://dx.doi.org/10.1016/j.trc.2013.09.006)
-  - [Esfandeh, T., R. Batta, and C. Kwon, “Time-Dependent Hazardous-materials Network Design Problem”, Transportation Science, Articles in Advance](https://doi.org/10.1287/trsc.2016.0698)
+  - [Esfandeh, T., R. Batta, and C. Kwon (2018), “Time-Dependent Hazardous-materials Network Design Problem”, Transportation Science, 52(2), 229-496.](https://doi.org/10.1287/trsc.2016.0698)
+
+
 
 (*If you use these datasets in your paper, please feel free to add to the above list.*)
