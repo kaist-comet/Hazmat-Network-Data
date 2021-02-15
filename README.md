@@ -24,3 +24,30 @@ This repository contains two road network data, which may be useful for research
 
 
 (*If you use these datasets in your paper, please feel free to add to the above list.*)
+
+
+
+
+# Data Sources
+- US Census 2010 <http://www.census.gov/2010census>
+- Federal Highway Administration, Publications & Statistics <http://www.fhwa.dot.gov/resources/pubstats>
+- Federal Motor Carrier Safety Administration, Statistics and Facts <http://www.fmcsa.dot.gov/facts-research/art-stats-facts.htm>
+- New York State Department of Transportation, Traffic Volume Data <https://www.dot.ny.gov/divisions/engineering/technical-services/highway-data-services/hdsb?nd=nysdot>
+- Pipeline and Hazardous Materials Safety Administrator, Data & Statistics <http://phmsa.dot.gov/hazmat/library/data-stats>
+- New York State Thruway Authority <http://www.thruway.ny.gov/index.shtml>
+- Greater Buffalo-Niagara Regional Transportation Council, Transportation Data Management System <http://gbnrtc.org/index.php/resources/data/traffic-count-database-system/>
+- U.S. Hazardous Materials Report <http://www.census.gov/econ/cfs/>, Commodity Flow Survey, U.S. Census Bureau
+- Hazmat Incidents Databases:
+  - Incident Reports Database Search <https://hazmatonline.phmsa.dot.gov/IncidentReportsSearch/search.aspx>, U.S. Department of Transportation
+  - Yearly Incident Summary Reports–Hazmat Intelligence Portal <https://hip.phmsa.dot.gov/analyticsSOAP/saw.dll?Dashboard&NQUser=HazmatWebsiteUser1&NQPassword=HazmatWebsiteUser1&PortalPath=/shared/Public%20Website%20Pages/_portal/Yearly%20Incident%20Summary%20Reports>, U.S. Department of Transportation
+- Spills and Accidents Database <http://www.rtknet.org/db/erns/>, The Right-to-Know Network
+- Databases: Hazardous Material Incident Logbook Search <http://www.azdeq.gov/databases/hwssearch.html>, Arizona Department of Environmental Quality
+Environmental Releases <http://apps.dnrec.state.de.us/derns/pub/RecentReleases.aspx>, Delaware Department of Natural Resources and Environmental Control
+- Hazardous Materials Spills <https://data.illinois.gov/Environment/IEMA-Hazardous-Material-Spills/s296-ttzm>, Illinois Emergency Management Agency
+- Spill Incidents Database Search <http://www.dec.ny.gov/cfmx/extapps/derexternal/index.cfm?pageid=2>, New York Department of Environmental Conservation
+- Hazardous Materials Incident Reports <http://www.oregon.gov/OSP/SFM/Pages/CR2K_InfoAvailable.aspx#Hazardous_Materials_Incident_Reports>, Oregon State Police
+ 
+ 
+# Relevant Links
+- U.S. Department of Transportation, Pipeline and Hazardous Materials Safety Administration (PHMSA) <http://phmsa.dot.gov/hazmat>
+- Hazmat page by the Federal Emergency Management Agency, U.S. Department of Homeland Security <http://www.fema.gov/hazard/hazmat/index.shtm>
