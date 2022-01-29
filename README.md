@@ -15,11 +15,11 @@ The complete version of the Albany network first appeared in the following paper
 @incollection{toumazis2013value,
   title={Value-at-risk and conditional value-at-risk minimization for hazardous materials routing},
   author={Toumazis, Iakovos and Kwon, Changhyun and Batta, Rajan},
-	booktitle = {Handbook of OR/MS Models in Hazardous Materials Transportation},
-	editor = {Batta, Rajan and Kwon, Changhyun},
+  booktitle = {Handbook of OR/MS Models in Hazardous Materials Transportation},
+  editor = {Batta, Rajan and Kwon, Changhyun},
   pages={127--154},
   year={2013},
-	publisher = {Springer New York},
+  publisher = {Springer New York},
 }
 ```
 
