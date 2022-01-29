@@ -6,19 +6,50 @@
 This repository contains two road network data, which may be useful for research in hazardous materials transportation. See the `data` directory of this repository for data. The listed research articles used the data. 
 
 
+## Albany Network
+
 ![Albany Network](Albany-Network-Map-150x150.png)
 
-* Albany Network
+The complete version of the Albany network first appeared in the following paper:
+```
+@incollection{toumazis2013value,
+  title={Value-at-risk and conditional value-at-risk minimization for hazardous materials routing},
+  author={Toumazis, Iakovos and Kwon, Changhyun and Batta, Rajan},
+	booktitle = {Handbook of OR/MS Models in Hazardous Materials Transportation},
+	editor = {Batta, Rajan and Kwon, Changhyun},
+  pages={127--154},
+  year={2013},
+	publisher = {Springer New York},
+}
+```
+
+This network, or its variants, was used in the following papers:
   - [Kang, Y., R. Batta and C. Kwon (2014), “Value-at-Risk Model for Hazardous Material Transportation”, Annals of Operations Research, 222(1), 361–387.](http://dx.doi.org/10.1007/s10479-012-1285-0)
   - [Kang, Y., R. Batta and C. Kwon (2014), “Generalized Route Planning Model for Hazardous Material Transportation with VaR and Equity Considerations”, Computers & Operations Research, 43, 237–247.](http://dx.doi.org/10.1016/j.cor.2013.09.015)
   - [Toumazis, I., C. Kwon, and R. Batta (2013), “Value-at-Risk and Conditional Value-at-Risk Minimization for Hazardous Materials Routing”, in Handbook of OR/MS Models in Hazardous Materials Transportation (Eds.:R. Batta and C. Kwon), Springer](http://dx.doi.org/10.1007/978-1-4614-6794-6_5)
 
 
+
+## Buffalo Network
+
 ![Buffalo Network](Buffalo_Network_Map-150x150.png)
 
-* Buffalo Network
-  - [Toumazis, I. and C. Kwon (2016), “Worst-case Conditional Value-at-Risk Minimization for Hazardous Materials Transportation”, Transportation Science, 50(4), 1174–1187](http://dx.doi.org/10.1287/trsc.2015.0639)
+The complete version of the Buffalo network first appeared in the following paper:
+```
+@article{toumazis2013routing,
+  title={Routing hazardous materials on time-dependent networks using conditional value-at-risk},
+  author={Toumazis, Iakovos and Kwon, Changhyun},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={37},
+  pages={73--92},
+  year={2013},
+  publisher={Elsevier}
+}
+```
+
+This network was used in the following papers:
   - [Toumazis, I. and C. Kwon (2013), “Routing Hazardous Materials on Time-Dependent Networks using Conditional Value-at-Risk”, Transportation Research Part C: Emerging Technologies, 37, 73–92.](http://dx.doi.org/10.1016/j.trc.2013.09.006)
+  - [Toumazis, I. and C. Kwon (2016), “Worst-case Conditional Value-at-Risk Minimization for Hazardous Materials Transportation”, Transportation Science, 50(4), 1174–1187](http://dx.doi.org/10.1287/trsc.2015.0639)
   - [Esfandeh, T., R. Batta, and C. Kwon (2018), “Time-Dependent Hazardous-materials Network Design Problem”, Transportation Science, 52(2), 229-496.](https://doi.org/10.1287/trsc.2016.0698)
 
 
